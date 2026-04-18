@@ -1,5 +1,5 @@
 # 💫 About Me:
-ai agents and generative <br>langchain<br>ollama<br>machine learning<br>open ai key<br>
+Ai Agents and Generative <br>langchain<br>ollama<br>machine learning<br>open ai key<br>
 
 
 # 💻 Tech Stack:
