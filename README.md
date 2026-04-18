@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 Ai Agents and Generative <br>langchain<br>ollama<br>machine learning<br>open ai key<br>
 
 
